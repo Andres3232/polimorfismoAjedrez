@@ -3,6 +3,9 @@
 ### Profesor Hugo Diego Pacini 
 #### Alumnos: Murgo, Andres - Cortinez, Emanuel. 
 <br></br>
+### Realizamos dos proyectos, este lo realizamos con clases absatractas, herencia y polimorfismo.
+El segundo proyecto lo realizamos con: node, funciones asincronas y promesas con lo se charlo en la clase.
+<https://github.com/Andres3232/polimorfismoAjedrezConNodeYmenu.git>
 ## **<center>Polimorfismo</center>**
 #### **<u>Definicion</u>**
 <pre>    Denominamos polimorfismo al mecanismo  que nos permite tener un metodo de una clase padre (herencia) y sobre escribirlo en la clase hija. 
